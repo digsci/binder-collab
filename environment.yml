@@ -1,0 +1,7 @@
+name: vsl-env
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
